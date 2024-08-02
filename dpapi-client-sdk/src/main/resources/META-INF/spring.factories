@@ -1,0 +1,3 @@
+# Springboot starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dp.dpapiclientsdk.DpApiClientConfig
